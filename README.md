@@ -8,5 +8,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
-verybeautiful
+我会在那里见到你，迫不及待地开始吧！
+等我学业有成，我会在山的那头等待你的到来
